@@ -4,3 +4,4 @@
 
 The objective is to apply the basics of HTML to build a [brutalist](https://brutalistwebsites.com/) style website for cooking recipes.
 
+View the live demo [here](https://scruffythemoose.github.io/odin-recipes/)
